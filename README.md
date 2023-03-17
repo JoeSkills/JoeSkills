@@ -8,7 +8,7 @@ I've been coding since 2019. What I do fills me with joy, I design and code with
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [josephoritseweyinmi5@gmail.com](mailto:josephoritseweyinmi5@gmail.com)
-* 🧠  I'm learning Tailwind
+* 🧠  I'm learning Tailwind And Graphql
 * ⚡  I'm a relaxed and friendly guy.
 
 ### Skills
