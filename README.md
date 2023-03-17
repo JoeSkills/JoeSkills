@@ -4,7 +4,7 @@ Hi 👋 My name is joseph oritseweyinmi
 Web Development Hobbyist
 ------------------------
 
-I've been coding for 3 years now. I started with c#, then I moved into web development. I really love bringing my ideas to life on the web.
+I've been coding since 2019. What I do fills me with joy, I design and code with passion. In my spare time I love watching movies and building my own projects. I have experience on both frontend and backend technologies. My preferred tools are NodeJs, React and MongoDB
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [josephoritseweyinmi5@gmail.com](mailto:josephoritseweyinmi5@gmail.com)
